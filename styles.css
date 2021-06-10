@@ -172,6 +172,16 @@ a.social:hover {
   clear: both;
 }
 
+a.digital1 {
+  background-image: url(content/digital1.jpg);
+}
+a.social:hover {
+  opacity: 1;
+}
+.clearfix {
+  clear: both;
+}
+
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
   
